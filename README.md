@@ -1,2 +1,2 @@
 # Trivia_Game
-Python coded Trivia game
+Python Trivia game
